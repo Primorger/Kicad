@@ -486,7 +486,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "3dp_esc.net",
+      "netlist": "3dp_esc_nicest.net",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
